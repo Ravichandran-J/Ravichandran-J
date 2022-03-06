@@ -5,7 +5,7 @@
 #👋 I’m Ravichandran-J
 - 👀 I’m interested in programmming , hacking and web development
 - 🌱 I’m doing my bachelor degree
-- 💞️ I’m looking to collaborate on some intresting projects
+- 💞️ I’m looking to collaborate on some interesting projects
 
 **##🚀Github Stats:**
 
