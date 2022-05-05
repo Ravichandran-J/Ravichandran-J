@@ -16,7 +16,7 @@
 ## 📫 How to reach me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravichandran-j-8a09aa188/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravicha68412231)
-<a href="https://devfolio.co/@RAVICHANDRAN" target="blank" text="DEVFOLIO"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="Ravichandran-J" height="30" width="30" /></a>
+<a href="https://devfolio.co/@RAVICHANDRAN" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="Ravichandran-J" height="30" width="30" /></a><h2>DEVFOLIO</h2>
 
 
 
