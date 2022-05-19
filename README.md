@@ -7,7 +7,7 @@
 - 🌱 I’m doing my bachelor degree
 - 💞️ I’m looking to collaborate on some interesting projects
 
-**#🚀Github Stats:**
+** # 🚀Github Stats: **
 
 
 ![Ravichandran-J GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravichandran-J&show_icons=true&theme=tokyonight)]
