@@ -32,6 +32,7 @@
 
 # ⛏ Interested in:
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/penetration-testing-2010846-1693874.png?w=256&f=avif" alt="pentesting" width="80" height="90"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://st3.depositphotos.com/29881388/32716/v/600/depositphotos_327166958-stock-illustration-mysterious-computer-hacker-icon-logo.jpg" alt="Hacking" width="80" height="90"/> </a>
  
 # 🚀Github Stats:
 
