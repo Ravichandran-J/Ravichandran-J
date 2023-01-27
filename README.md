@@ -9,7 +9,7 @@
 
 
 # ⛏ Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ravichandran-J/logo-s/blob/main/c%20program.png" alt="c" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -26,6 +26,7 @@
 <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ParrotSec/parrot-themes/master/icons/parrot-logo.svg" alt="parrot" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ravichandran-J/logo-s/blob/main/tails.svg" alt="windows" width="40" height="40"/> </a>
 
  
  
