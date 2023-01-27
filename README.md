@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on some interesting projects
 
 
-# ⛏ Languages and Tools:
+# ⛏ Languages, Tools and Softwares:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/python.png" alt="python" width="40" height="40"/> </a>
