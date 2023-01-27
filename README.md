@@ -10,23 +10,23 @@
 
 # ⛏ Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /> </a>    
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>   
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> 
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/python.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/css3.png" alt="css3" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/512/flask.png" alt="flask" width="40" height="40" /> </a>    
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/django.png" alt="django" width="40" height="40"/> </a>   
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/512/bash.png" alt="bash" width="40" height="40"/> </a> 
+<a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-glyphs/512/visual-studio.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/canva.png" alt="canva" width="40" height="40"/> </a> 
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="vim" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/kali-linux.svg" alt="kali" width="40" height="40"/> </a>
-<a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ParrotSec/parrot-themes/master/icons/parrot-logo.svg" alt="parrot" width="40" height="40"/> </a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ravichandran-J/logo-s/blob/main/tails.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/parrot-security.png" alt="parrot" width="40" height="40"/> </a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/debian.png" alt="debian" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg](https://img.icons8.com/color/512/windows-10.png)" alt="windows" width="40" height="40"/> </a>
+<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-notagline.svg" alt="windows" width="40" height="40"/> </a>
 
  
  
