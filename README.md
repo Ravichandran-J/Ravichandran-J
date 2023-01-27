@@ -18,6 +18,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/django.png" alt="django" width="40" height="40"/> </a>   
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/512/bash.png" alt="bash" width="40" height="40"/> </a> 
 <a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/visual-studio.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/docker.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/canva.png" alt="canva" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="vim" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="linux" width="40" height="40"/> </a> 
@@ -26,7 +27,7 @@
 <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/parrot-security.png" alt="parrot" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/debian.png" alt="debian" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/windows-10.png" alt="windows" width="40" height="40"/> </a>
-<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-notagline.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-notagline.svg" alt="tails" width="40" height="40"/> </a>
 
  
  
