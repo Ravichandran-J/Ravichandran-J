@@ -31,7 +31,7 @@
 <a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-notagline.svg" alt="tails" width="40" height="40"/> </a>
 
 # ⛏ Interested in:
-<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/692ff43a5b83.jpg" alt="tails" width="80" height="80"/> </a>
+<a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/692ff43a5b83.jpg" alt="tails" width="80" height="90"/> </a>
  
 # 🚀Github Stats:
 
