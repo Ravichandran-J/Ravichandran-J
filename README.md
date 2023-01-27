@@ -5,7 +5,8 @@
 # 👋 I’m Ravichandran-J
 - 👀 I’m interested in programmming , hacking and web development
 - 🌱 I’m doing my bachelor degree
-- 💞️ I’m looking to collaborate on some interesting projects
+- 💞️ I’m looking to collaborate on some interesting projects'
+- 😀 Life Hack: "Forget Everything What You Have Learnt Until Now 😎 And Escape From Matrix 🏃‍♂️"
 
 
 # ⛏ Languages, Tools and Softwares:
