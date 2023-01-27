@@ -25,7 +25,7 @@
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/kali-linux.svg" alt="kali" width="40" height="40"/> </a>
 <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/parrot-security.png" alt="parrot" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/debian.png" alt="debian" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg](https://img.icons8.com/color/512/windows-10.png)" alt="windows" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/windows/?r=1" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/windows-10.png" alt="windows" width="40" height="40"/> </a>
 <a href="https://tails.boum.org/" target="_blank" rel="noreferrer"> <img src="https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-notagline.svg" alt="windows" width="40" height="40"/> </a>
 
  
