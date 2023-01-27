@@ -17,7 +17,7 @@
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/512/flask.png" alt="flask" width="40" height="40" /> </a>    
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/django.png" alt="django" width="40" height="40"/> </a>   
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/512/bash.png" alt="bash" width="40" height="40"/> </a> 
-<a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-glyphs/512/visual-studio.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/visual-studio.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/canva.png" alt="canva" width="40" height="40"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="vim" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="linux" width="40" height="40"/> </a> 
